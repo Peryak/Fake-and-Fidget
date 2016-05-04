@@ -1,0 +1,79 @@
+/*-----------------------------------------------------------------------*/
+/*                           CLASS                                       */
+/*-----------------------------------------------------------------------*/
+
+.rows{
+    box-sizing: border-box;
+    width: 100%;
+    float: top;
+}
+
+.h-row{
+    box-sizing: border-box;
+    width: 100%;
+    margin-top: 0%;
+}
+
+.f-row{
+    box-sizing: border-box;
+    width: 100%;
+    margin-bottom: 0%;
+}
+
+.col{
+    box-sizing: border-box;
+    width: 100%;
+    float: left;
+}
+
+.col5{
+    box-sizing: border-box;
+    width: 5%;
+    float: left;
+}
+
+.col10{
+    box-sizing: border-box;
+    width: 10%;
+    float: left;
+}
+
+.col15{
+    box-sizing: border-box;
+    width: 15%;
+    float: left;
+}
+
+.col20{
+    box-sizing: border-box;
+    width: 20%;
+    float: left;   
+}
+
+.col25{
+    box-sizing: border-box;
+    width: 25%;
+    float: left;   
+}
+
+.col30{
+    box-sizing: border-box;
+    width: 30%;
+    float: left;
+}
+
+.col40{
+    box-sizing: border-box;
+    width: 40%;
+    float: left;
+}
+
+.col85{
+    box-sizing: border-box;
+    width: 85%;
+    float: left;
+}
+
+/*-----------------------------------------------------------------------*/
+/*                           ID                                          */
+/*-----------------------------------------------------------------------*/

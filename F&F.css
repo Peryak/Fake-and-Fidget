@@ -1,0 +1,83 @@
+html,body{
+    padding: 0;
+    margin: 0;
+    background: black;    
+}
+
+/*-----------------------------------------------------------------------*/
+/*                           CLASS                                       */
+/*-----------------------------------------------------------------------*/
+
+.my-body{
+    display: block;
+    max-width: 100%;
+    width: 177.78vh;
+    height: 56.25vw;
+    max-height: 100%;
+    background-color: cornflowerblue;
+}
+
+.menu-button{
+    height: 10%;
+    margin-bottom: 4%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+    border: 0px;
+}
+
+.menu-button:hover{
+    background-color: rgba(0, 0, 0, 0.3);
+    border: 2px solid rgba(255, 255, 255, 0.2);
+}
+
+.social-icon{
+    height: 80%;
+}
+
+/*-----------------------------------------------------------------------*/
+/*                           ID                                          */
+/*-----------------------------------------------------------------------*/
+
+#head-row{
+    background-color: rgba(0, 0, 0, 0.4);
+    height: 12.5%;
+}
+
+#faf-logo{
+    height: 100%;
+    background-color: darkblue;
+}
+
+#body-row{
+    background-color: rgba(255, 255, 255, 0.2);
+    height: 82.5%;
+}
+
+#body-main{
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+#body-menu{
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.2);;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    padding-left: .5%;
+    padding-right: .5%;
+}
+
+#foot-row{
+    background-color: rgba(0, 0, 0, 0.4);
+    height: 5%;
+}
+
+#with-love{
+    font-size: 0.8vw;
+    text-align: center;
+}
+
+#logo-bloc{
+    text-align: center;
+    padding-top: 1.5%;
+}
