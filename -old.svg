@@ -1,0 +1,19 @@
+<svg width="1024" height="768" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="770" width="1026" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <ellipse opacity="0.25" stroke-dasharray="2,2" ry="305" rx="454.5" id="svg_4" cy="438" cx="505" stroke-width="0" stroke="#000" fill="#ffffff"/>
+  <ellipse opacity="0.15" stroke="#000" ry="175.000004" rx="244.499994" id="svg_5" cy="425.999996" cx="520.000004" stroke-width="0" fill="#ffffff"/>
+  <text font-style="normal" stroke="#000" transform="matrix(19.106277264654636,0,0,19.106277264654636,-6069.287763856468,-7191.55816697597) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_3" y="406.655446" x="337.3729" stroke-width="0" fill="#ff0000">&amp;</text>
+  <text stroke="#000" transform="matrix(9.927210833966,0,0,9.927210833966,-2178.5502629247667,-5793.245181604304) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_2" y="652.743981" x="253.980083" stroke-width="0" fill="#ff7f00">Fidget</text>
+  <text stroke="#000" transform="matrix(10.129467010498047,0,0,10.037036895751953,-1008.8061046600342,-3506.370315551758) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_1" y="382.00369" x="101.417587" stroke-width="0" fill="#ff7f00">Fake</text>
+ </g>
+</svg>
