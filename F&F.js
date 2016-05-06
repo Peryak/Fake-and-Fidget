@@ -27,6 +27,9 @@
         case 9:
             alert("9");
             break;
+        case 10:
+            alert("menu");
+            break;    
         default:
             alert("menu");
             break;
