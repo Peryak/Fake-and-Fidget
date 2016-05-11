@@ -1,4 +1,4 @@
-%function menu(id) {
+function menu(id) {
     switch (id) {
         case 1:
             alert("1");
@@ -34,4 +34,8 @@
             alert("menu");
             break;
     }
+}
+
+function connect{
+    
 }
